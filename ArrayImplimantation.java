@@ -10,5 +10,6 @@ public class ArrayImplimantation {
         System.out.println(arr[2]);
         System.out.println(arr[1]+arr[3]);
         System.out.println(char1[2]);
+        System.out.println(arr.length);
     }
 }
