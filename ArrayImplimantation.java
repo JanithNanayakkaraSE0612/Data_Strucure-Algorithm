@@ -11,5 +11,8 @@ public class ArrayImplimantation {
         System.out.println(arr[1]+arr[3]);
         System.out.println(char1[2]);
         System.out.println(arr.length);
+        for(int i=0; i<arr.length;i++){
+            System.out.println(arr[i]);
+        }
     }
 }
